@@ -17,10 +17,10 @@ This web application allows users to add, view, access, and rate campgrounds by 
   - Database: Managed MongoDB Atlas on AWS
   - Storage: Cloudinary CDN for image assets
 
- ### DevOps Automation
-- **Infrastructure as Code**: Terraform provisioning (30% faster setup)
-- **CI/CD Pipeline**: Jenkins automated testing/deployment (30% effort reduction)
-- **Containerized Deployment**: Docker Compose for local dev, ECS for production
+-  **DevOps Automation**
+  - **Infrastructure as Code**: Terraform provisioning (30% faster setup)
+  - **CI/CD Pipeline**: Jenkins automated testing/deployment (30% effort reduction)
+  - **Containerized Deployment**: Docker Compose for local dev, ECS for production
 
 ### Technical Stack
 | Component          | Technology                          |
